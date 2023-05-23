@@ -6,4 +6,4 @@ Ninjas Code is a software development solutions company that primarily focuses o
 
 ## Participating in the community
 
-- Become part of our community by joining our discord channel [here](https://discord.gg/CZCD5qQv)
+- Become part of our community by joining our Facebook group [here](https://www.facebook.com/groups/1145159719681626)
