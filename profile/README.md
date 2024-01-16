@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ninjascode.com" target="_blank"><img src="https://i.imgur.com/cWDFwLx.png" width="600"></a></p>
+<p align="center"><a href="https://ninjascode.com" target="_blank"><img src="https://i.imgur.com/cWDFwLx.png" width="100%"></a></p>
 
 ## About Ninjas Code
 
