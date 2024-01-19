@@ -1,6 +1,6 @@
-<p align="center"><a href="https://ninjascode.com" target="_blank"><img src="https://i.imgur.com/cWDFwLx.png" width="100%"></a></p>
+<a href="https://ninjascode.com" target="_blank" rel="noopener noreferrer" alt="Ninjas Code - Open Core Solutions"><img src="../assets/cover-image.png" width="100%"></a>
 
-## Hello! Welcome to Ninjas Code!
+## Hello 👋 Welcome to Ninjas Code 🧑‍💻
 
 Ninjas Code is a software development and solutions company that primarily focuses on open core software solutions. Our goal is to get our solutions to as many people as possible so that we can create a strong community centered around our values for transparency and easy accessibility.
 
