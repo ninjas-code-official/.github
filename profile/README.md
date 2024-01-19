@@ -1,4 +1,4 @@
-<a href="https://ninjascode.com" target="_blank" rel="noopener noreferrer" alt="Ninjas Code - Open Core Solutions"><img src="../assets/cover-image.png" width="100%"></a>
+<a href="https://ninjascode.com" target="_blank" rel="noopener noreferrer" ><img alt="Ninjas Code - Open Core Solutions" src="../assets/cover-image.png" width="100%"></a>
 
 ## Hello 👋 Welcome to Ninjas Code 🧑‍💻
 
